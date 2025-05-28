@@ -15,7 +15,8 @@ const perguntas = [
             texto: "alternativa2",
             afirmacao: "afirmacao2"
         },
-        ]
+    ]
+    },
 {
     enunciado:"Pergunta2",
     alternativas: [ 
@@ -28,5 +29,5 @@ const perguntas = [
             afirmacao: "afirmacao2"
         },
     ]
-}
+},
 ]
