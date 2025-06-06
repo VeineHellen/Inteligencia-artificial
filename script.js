@@ -56,9 +56,10 @@ function mostraPergunta() {
     }
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
+    caixaAlternativas.textContent = "";
+    textoResultado.textContent = "";
     mostraAlternativas();
 }
-mostraPergunta();
 
 function mostraAlternativas() {
     for(const alternativa of perguntaAtual.alternativas){
@@ -81,3 +82,4 @@ function mostraResultado(){
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
+mostraPergunta();
