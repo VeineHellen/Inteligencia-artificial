@@ -26,7 +26,7 @@ const perguntas = [
                 afirmacao: "A educação digital é crucial para navegar em ambientes online complexos."
             },
             {
-                texto: "Algoritmos criam "bolhas de filtro". A escola precisa ensinar a questionar informações online e buscar fontes diversas para desconstruir narrativas homofóbicas.",
+                texto: "Algoritmos criam bolhas de filtro. A escola precisa ensinar a questionar informações online e buscar fontes diversas para desconstruir narrativas homofóbicas.",
                 afirmacao: "Compreender algoritmos e diversidade de informação evita a polarização."
             },
         ]
