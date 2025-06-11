@@ -5,28 +5,28 @@ const caixaResultado = document.querySelector(".caixa-resultado")
 const textoResultado = document.querySelector(".texto-resultado")
 const perguntas = [
     {
-        enunciado: "Pergunta1",
+        enunciado: "Como a escola pode usar a tecnologia para criar um ambiente seguro, combatendo a homofobia de forma proativa e acolhendo estudantes LGBTQIA+?"
         alternativas: [
         {
-            texto: "alternativa1",
-            afirmacao: "afirmacao1"
+            texto: "A escola pode implementar plataformas digitais para denúncias anônimas de homofobia e desenvolver aplicativos educativos sobre diversidade.",
+            afirmacao: "Ferramentas digitais seguras e informativas fortalecem o suporte a grupos minoritários."
         },
         {
-            texto: "alternativa2",
-            afirmacao: "afirmacao2"
+            texto: "Usar realidade virtual (RV) ou jogos educativos pode simular preconceito, desenvolvendo empatia e capacitando os alunos a intervir.",
+            afirmacao: "Experiências imersivas aprimoram a compreensão e a sensibilidade social."
         },
     ]
     },
 {
-    enunciado:"Pergunta2",
+    enunciado:" tecnologia pode espalhar homofobia. Qual o papel da escola em mitigar isso e promover o uso responsável entre os jovens?",
     alternativas: [ 
         {
-            texto: "alternativa1",
-            afirmacao: "afirmacao1"
+            texto: "Redes sociais propagam cyberbullying. A escola deve educar sobre cidadania digital e pensamento crítico para identificar e combater esses conteúdos.",
+            afirmacao: "A educação digital é crucial para navegar em ambientes online complexos."
         },
         {
-            texto: "alternativa2",
-            afirmacao: "afirmacao2"
+            texto: "Algoritmos criam "bolhas de filtro". A escola precisa ensinar a questionar informações online e buscar fontes diversas para desconstruir narrativas homofóbicas.",
+            afirmacao: "Compreender algoritmos e diversidade de informação evita a polarização."
         },
     ]
 },
