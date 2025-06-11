@@ -32,15 +32,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta3",
+        enunciado: "Como a escola pode integrar a tecnologia no currículo para abordar a homofobia como uma questão que exige letramento digital e engajamento cívico dos alunos?",
         alternativas: [
             {
-                texto: "alternativa1",
-                afirmacao: "afirmacao1"
+                texto: "A escola pode desenvolver projetos que utilizem mídias digitais (vídeos, podcasts, blogs) para campanhas de conscientização, permitindo que os alunos criem conteúdo e se tornem defensores da inclusão.",
+                afirmacao: "A produção de conteúdo digital pelos alunos amplifica mensagens de inclusão."
             },
             {
-                texto: "alternativa2",
-                afirmacao: "afirmacao2"
+                texto: "Incluir aulas sobre ética digital e consequências do cyberbullying homofóbico, usando estudos de caso reais e ferramentas de análise de redes sociais.",
+                afirmacao: "A análise de casos reais e o debate ético no contexto digital são fundamentais para a formação cívica."
             },
         ]
     },
