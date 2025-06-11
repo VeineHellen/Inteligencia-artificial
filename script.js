@@ -5,7 +5,7 @@ const caixaResultado = document.querySelector(".caixa-resultado")
 const textoResultado = document.querySelector(".texto-resultado")
 const perguntas = [
     {
-        enunciado: "Como a escola pode usar a tecnologia para criar um ambiente seguro, combatendo a homofobia de forma proativa e acolhendo estudantes LGBTQIA+?"
+        enunciado: "Como a escola pode usar a tecnologia para criar um ambiente seguro, combatendo a homofobia de forma proativa e acolhendo estudantes LGBTQIA+?",
         alternativas: [
         {
             texto: "A escola pode implementar plataformas digitais para denúncias anônimas de homofobia e desenvolver aplicativos educativos sobre diversidade.",
